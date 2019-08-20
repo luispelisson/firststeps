@@ -7,8 +7,9 @@ html, body{
 	padding: 0;
 }
 
-div.title{
+.title{
 	display: inline-block;
+	color: black;
 	width: 1280px;
 	height: 100%;
 	background-color: red;
