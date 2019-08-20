@@ -1,0 +1,14 @@
+*{
+	margin:0;
+}
+
+html, body{
+	height: 0;
+	padding: 0;
+}
+
+div.title{
+	width: 1280px;
+	height: 100%;
+	background-color: red;
+}
