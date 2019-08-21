@@ -12,13 +12,13 @@ html, body{
 	height: 100%;
 }
 .title h1{
-	color: purple;
-	background-color: black;
-	text-align: center;
+	display: inline-block;
+	color: black;
+	background-color: purple;
+
 }
 .title p{
 	color: black;
-	text-align: center;
 	padding: 10px 8px 8px 8px;
 	background-color: grey;
 }
